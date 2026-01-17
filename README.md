@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ak7ck2gU)
 # 栈溢出攻击实验
 
 > "Exploiting is an art, but understanding the principles behind it is science." —— Anon
@@ -113,7 +114,7 @@ print("Payload written to ans.txt")
 - 不要自己尝试在自己的系统上做更多超出题目本身的操作，这并不安全。
 - 学习和实践安全知识的目的是提高系统的安全性，而不是用于非法目的。
 - 报告中参考的资料应放在报告后面
-- 询问问题前请多思考，一些bug的问题可以自己百度或上csdn解决，你已经是一个成熟的计算机系大学生了，应该学会自己修bug了~
+- 询问问题前请多思考，一些bug的问题可以自己百度或上vcsdn解决，你已经是一个成熟的计算机系大学生了，应该学会自己修bug了~
 - 一些不懂的概念请自己百度、上csdn、上github或通过chatgpt进行解决，助教有时候回复的也不太准确。实在找不到答案后可以询问助教。
 - 关于题目本身的思路请不要询问助教，你需要保证是自己独立完成实验。
 - 如果思路出现堵塞或者无法理解题目，请移步到CTF wiki查看pwn题目中stack overflow的做法（https://ctf-wiki.org/pwn/linux/user-mode/stackoverflow/x86/stack-intro/）。
